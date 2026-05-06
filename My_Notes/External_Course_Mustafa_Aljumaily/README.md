@@ -3,11 +3,9 @@
 This document summarizes the key concepts from a **Pattern Recognition** course (YouTube lectures).  
 Each chapter includes a brief textual overview and the corresponding slide image.
 
-> All images are stored in `./Pic/` and displayed with a width of 550px.
-
 ---
 
-## 📚 Table of Contents
+## Contents Table : 
 
 1. [Introduction to Pattern Recognition](#chapter-1)
 2. [Bayesian Decision Theory](#chapter-2)
@@ -182,11 +180,3 @@ Scene matching using attributed graphs:
 
 ---
 
-## ✅ How to use this README
-
-- Place this file inside:  
-  `DSAI-4307-Pattern-Recognition/My_Notes/External_Course_Mustafa_Aljumaily/`
-- Ensure all images are in the subfolder `./Pic/` with the exact filenames listed above.
-- Adjust `width` values as needed (e.g., `600` for larger displays).
-
-**Good luck with your studies!** 🎓
