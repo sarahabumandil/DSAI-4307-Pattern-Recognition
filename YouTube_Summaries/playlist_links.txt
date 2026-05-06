@@ -1,1 +1,9 @@
+[Chapter 1] Introduction
+https://youtu.be/TZFvwqESWto?si=fFUCFLQEuv-BjQEc
 
+[Chapter 2] Basics & Probabilistic Models
+https://www.youtube.com/watch?v=Dyb18CGmIgM
+
+[Chapter 3] MAP Classifier
+https://youtu.be/Z2AdK1wfBRc
+https://youtu.be/wh4vVnXw6Hc
